@@ -11,3 +11,32 @@ body {
     padding: 30px;
     box-shadow: 0 90px 90px rgb(65, 50, 0.08);
 }
+
+.searchforminput {
+    background-color: blanchedalmond;
+    border: none;
+    border-radius: 20px;
+    width: 500px;
+    padding: 15px 10px;
+    font-size: 16px;
+}
+
+.searchform {}
+
+.searchformsubmit {
+    background-color: #adf1b1;
+    border: none;
+    border-radius: 20px;
+    width: 100px;
+    padding: 15px;
+    font-size: 16px;
+}
+
+.thefooter {
+    text-align: center;
+
+}
+
+a {
+    color: #9e4f00;
+}
