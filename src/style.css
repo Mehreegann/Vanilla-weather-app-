@@ -1,0 +1,13 @@
+body {
+    background-color: blanchedalmond;
+    font-family: "DynaPuff", system-ui;
+}
+
+.mainsection {
+    background-color: #f5b26f;
+    max-width: 700px;
+    margin: 70px auto;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 90px 90px rgb(65, 50, 0.08);
+}
