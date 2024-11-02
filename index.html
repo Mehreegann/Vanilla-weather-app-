@@ -17,14 +17,15 @@
 <body>
     <div class="mainsection">
         <header>
-            <form class="searchform">
-                <input type="search" placeholder="Enter a city..." required class="searchforminput" />
+            <form class="searchform" id="searchfform">
+                <input type="search" placeholder="Enter a city..." required id="searchfforminput"
+                    class="searchforminput" />
                 <input type="submit" value="Search" class="searchformsubmit" />
             </form>
         </header>
         <main>
             <div>
-                <h1>Tehran</h1>
+                <h1 id="themainheader">Tehran </h1>
                 <p>Tuesday 23:14, clear sky
                     <br />
                     Humidity: 43%, Wind: 1.03km/h
@@ -41,6 +42,7 @@
                 target="_blank">Github</a> and also
             hosted on<a href="https://dashboard.render.com/" target="_blank"> Render </a>
         </footer>
+        <script src="src/index.js"></script>
     </div>
 </body>
 
