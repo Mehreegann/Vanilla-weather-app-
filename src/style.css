@@ -4,8 +4,6 @@ body {
 }
 
 
-
-
 .mainsection {
     background-color: #f5b26f;
     max-width: 700px;
@@ -52,4 +50,30 @@ a {
 
 main {
     padding: 30px;
+}
+
+
+.weatherappdata strong {
+    color: #9e4f00;
+    justify-content: space-between;
+}
+
+.weatherappcontainer {
+    display: flex;
+}
+
+.weatherappicon {
+    font-size: 44px;
+    margin-top: 22px;
+}
+
+.weatherapptempreture {
+    font-size: 88px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.weatherappunity {
+    margin-top: 16px;
+    font-size: 28px;
 }
