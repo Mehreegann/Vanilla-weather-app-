@@ -64,8 +64,8 @@ main {
 }
 
 .weatherappicon {
-    font-size: 44px;
-    margin-top: 22px;
+    width: 88px;
+    height: 88px;
 }
 
 .weatherapptempreture {
